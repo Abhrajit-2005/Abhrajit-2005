@@ -22,7 +22,7 @@ When I'm not coding, I enjoy hiking and gaming.
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhrajit-chatterjee/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhrajit.chatterjee/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abhrajit.chatterjee/)
 
 💌 **Reach out:** abhrajitc23@gmail.com  
 
