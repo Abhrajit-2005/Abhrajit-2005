@@ -23,6 +23,8 @@ When I'm not coding, I enjoy hiking and gaming.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhrajit-chatterjee/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abhrajit.chatterjee/)
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Abhrajit_Chatterjee/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/AbhrajitChatterjee)
 
 💌 **Reach out:** abhrajitc23@gmail.com  
 
