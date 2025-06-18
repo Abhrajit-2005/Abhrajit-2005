@@ -28,4 +28,6 @@ When I'm not coding, I enjoy hiking and gaming.
 
 💌 **Reach out:** abhrajitc23@gmail.com  
 
+## Github Stats 
+![Abhrajit-2005's Stats](https://github-readme-stats.vercel.app/api?username=Abhrajit-2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ---
