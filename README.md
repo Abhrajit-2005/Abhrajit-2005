@@ -12,9 +12,10 @@ When I’m not coding, you’ll find me 🎮 gaming or 🥾 hiking in the wild.
 
 ## 🚀 Tech Stack
 
-**Languages & Frameworks**
+### 🧠 Languages & Frameworks
 
 <p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -25,14 +26,14 @@ When I’m not coding, you’ll find me 🎮 gaming or 🥾 hiking in the wild.
   <img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-**Styling & UI**
+### 🎨 Styling & UI
 
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-**Database & DevOps**
+### 🗃️ Database & DevOps
 
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
