@@ -49,6 +49,12 @@ When I’m not coding, you’ll find me 🎮 gaming or 🥾 hiking in the wild.
   <img src="https://github-readme-stats.vercel.app/api?username=Abhrajit-2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
+## 📈 Languages Used
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhrajit-2005&theme=vue-dark&hide_border=true&layout=compact" />
+</p>
+
 ---
 
 ## 📫 Let’s Connect!
@@ -65,6 +71,12 @@ When I’m not coding, you’ll find me 🎮 gaming or 🥾 hiking in the wild.
   </a>
   <a href="https://codeforces.com/profile/AbhrajitChatterjee" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/abhrajitc23" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codolio.com/profile/abhrajit" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-2E86C1?style=for-the-badge&logo=codio&logoColor=white" />
   </a>
 </p>
 
