@@ -63,8 +63,6 @@ When I’m not coding, you’ll find me 🎮 gaming or 🥾 hiking in the wild.
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhrajit-2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
 ## 📫 Let’s Connect!
 
 <p align="left">
