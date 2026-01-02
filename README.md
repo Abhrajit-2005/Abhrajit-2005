@@ -57,6 +57,14 @@ When I’m not coding, you’ll find me 🎮 gaming or 🥾 hiking in the wild.
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhrajit-2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Abhrajit-2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
 ## 📫 Let’s Connect!
 
 <p align="left">
