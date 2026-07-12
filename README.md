@@ -45,8 +45,6 @@ When I’m not coding, you’ll find me 🎮 gaming or 🥾 hiking in the wild.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Abhrajit-2005&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Abhrajit-2005&theme=radical" />
