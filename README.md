@@ -45,23 +45,9 @@ When I’m not coding, you’ll find me 🎮 gaming or 🥾 hiking in the wild.
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhrajit-2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
-## 📈 Languages Used
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhrajit-2005&theme=vue-dark&hide_border=true&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhrajit-2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Abhrajit-2005&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Abhrajit-2005&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Abhrajit-2005&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abhrajit-2005&layout=compact&theme=radical)
 
 ## 📫 Let’s Connect!
 
