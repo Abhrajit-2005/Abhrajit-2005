@@ -18,12 +18,13 @@ When I’m not coding, you’ll find me 🎮 gaming or 🥾 hiking in the wild.
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-61DAFB?style=for-the-badge&logo=redux&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  
 </p>
 
 ### 🎨 Styling & UI
@@ -31,6 +32,8 @@ When I’m not coding, you’ll find me 🎮 gaming or 🥾 hiking in the wild.
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### 🗃️ Databases & ORMs
@@ -38,7 +41,9 @@ When I’m not coding, you’ll find me 🎮 gaming or 🥾 hiking in the wild.
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PgSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white%22" />
+  <img src="https://img.shields.io/badge/PostGreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-4479A1?style=for-the-badge&logo=prisma&logoColor=white%22" />
+  <img src="https://img.shields.io/badge/Sequelize-4479A1?style=for-the-badge&logo=sequelize&logoColor=white%22" />
 </p>
 
 ---
